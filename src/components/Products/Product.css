@@ -1,0 +1,29 @@
+.card-info{
+    display: flex;
+    border-bottom: 2px solid gray;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.card-details{
+    color: blue;
+    font-weight: 400;
+}
+.card-img img{
+margin-right: 10px;
+}
+.purchase-btn{    
+    background: yellow;
+    border: 5px solid yellow;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    text-align: center;
+    justify-content: center;
+    /* line-height: 20px; */
+    cursor: pointer;
+}
+.icon-color{
+    color: rgb(255, 215, 0);
+}

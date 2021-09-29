@@ -1,0 +1,20 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.porduct-container{
+    border-right:  2px solid #808080;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+.card-heading{
+    text-align: center;
+}
+.search-filed{
+    background-color: rgba(7, 10, 0, 0.897);
+    text-align: center;
+    padding: 20px;
+}
+.search-filed .input-feild{
+    width: 70%;
+}
